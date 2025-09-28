@@ -5,7 +5,7 @@ A passionate Electronics and Communication Engineering student with a deep inter
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-hiremath-aa6554319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Skills:
-C programming (Intermediate)
+C programming (Intermediate)<br>
 Python (Intermediate)
 HTML(Intermediate)
 CSS (Basics)
