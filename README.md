@@ -1,6 +1,5 @@
 # 💫 About Me:
-Third year Electronics and Communication Engineering Student , focused on enhancing skills in python and have interest in Robotics and Automation
-
+A passionate Electronics and Communication Engineering student with a deep interest in Embedded system,VLSI domains and strong foundation in both hardware and software. Skilled in C, Python, and basic web development, with hands-on experience in Arduino-based projects, robotics, and computer vision using OpenCV. Eager to apply my problem-solving abilities, effective communication skills, and leverage this comprehensive skillset to contribute to innovative projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-hiremath-aa6554319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
